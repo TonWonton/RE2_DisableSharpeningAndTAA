@@ -16,15 +16,7 @@
 	</PropertyGroup>
 
 	<ItemGroup>
-		<Reference Include="D:\Games\steamapps\common\RESIDENT EVIL 2  BIOHAZARD RE2\reframework\plugins\managed\generated\*.dll">
-			<Private>false</Private>
-		</Reference>
-		
-		<Reference Include="D:\Games\steamapps\common\RESIDENT EVIL 2  BIOHAZARD RE2\reframework\plugins\managed\dependencies\*.dll">
-			<Private>false</Private>
-		</Reference>
-
-		<Reference Include="D:\Games\steamapps\common\RESIDENT EVIL 2  BIOHAZARD RE2\reframework\plugins\REFramework.NET.dll">
+		<Reference Include="..\..\RE2\**\*.dll">
 			<Private>false</Private>
 		</Reference>
 		

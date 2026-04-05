@@ -2,7 +2,6 @@
 
 ## Description
 Disable sharpening and TAA in Resident Evil 2 (2019) / Resident Evil 2 Remake.
-Why both sharpening and TAA at the same time? Because for some reason sharpening is tied to the TAA settings in some of the RE Engine games. This also means that the mod doesn't work if you are using FSR super resolution.
 
 ## Dependencies
 - REFrameworkNETPluginConfig https://github.com/TonWonton/REFrameworkNETPluginConfig
@@ -22,10 +21,6 @@ Why both sharpening and TAA at the same time? Because for some reason sharpening
 
 ## Features
 - Disable sharpening and TAA
-- Can enable FXAA. End result is sharpening disabled + FXAA only
-
-## Note
-- Does not work if you are using FSR super resolution
 
 ## Changelog
 ### v1.0.0
